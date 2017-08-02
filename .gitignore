@@ -1,0 +1,11 @@
+
+*.class
+*SKILLS*
+*.jar
+/.idea
+/target
+workday-skills.xml
+/project/target
+/project/project/target
+
+
